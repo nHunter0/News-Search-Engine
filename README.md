@@ -25,8 +25,8 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/nhunter0/simple-news-search-engine.git
-   cd simple-news-search-engine
+   git clone https://github.com/nHunter0/Search-Engine.git
+   cd Search-Engine
    ```
 
 2. **Install Python Dependencies**
