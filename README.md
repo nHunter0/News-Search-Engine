@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Simple News Search Engine will pull top news articles using NewsAPI, the articles will then be webscraped using BeautifulSoup, and sentiment analysis will be performed on the returned data. If the user searches, a TF-IDF value will be calculated and returned, this will rank the news articles based on relevance to the search. Note, titles have higher weight.
+This Simple News Search Engine will pull top news articles using NewsAPI, the articles will then be web scraped using BeautifulSoup, and sentiment analysis will be performed on the returned data. If the user searches, a TF-IDF value will be calculated and returned, this will rank the news articles based on relevance to the search. Note, titles have higher weight.
 
 ## Features
 
@@ -25,7 +25,7 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/simple-news-search-engine.git
+   git clone https://github.com/nhunter0/simple-news-search-engine.git
    cd simple-news-search-engine
    ```
 
@@ -36,6 +36,7 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
    ```
 
 3. **Modify API Key**
+
    Register for an account on [NewsAPI](https://newsapi.org/), then copy and paste the API key into the `NEWS_API_KEY` variable in `app.py`.
 
 4. **Run the Flask Server**
@@ -102,11 +103,8 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgements
 
 - [NewsAPI](https://newsapi.org/) for providing the news data.
 - [Hugging Face](https://huggingface.co/) for the sentiment analysis models.
+- [ChatGPT](https://chat.openai.com/) for code assistance.
