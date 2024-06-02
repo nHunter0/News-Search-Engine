@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Python",
+        "content": "Python is a powerful programming language that is easy to learn."
+    },
+    {
+        "id": 2,
+        "title": "React Basics",
+        "content": "React is a JavaScript library for building user interfaces."
+    },
+    {
+        "id": 3,
+        "title": "Flask for Web Development",
+        "content": "Flask is a lightweight WSGI web application framework in Python."
+    },
+    {
+        "id": 4,
+        "title": "Happy Programming",
+        "content": "Programming is so much fun and it brings great joy to create new applications."
+    },
+    {
+        "id": 5,
+        "title": "The Joy of Coding",
+        "content": "Creating software is a truly rewarding experience that brings happiness."
+    },
+    {
+        "id": 6,
+        "title": "Challenges in Software Development",
+        "content": "Software development can be quite challenging and sometimes very frustrating."
+    },
+    {
+        "id": 7,
+        "title": "Dealing with Bugs",
+        "content": "Finding and fixing bugs in code can be a very stressful and disheartening experience."
+    },
+    {
+        "id": 8,
+        "title": "Neutral Article on Programming",
+        "content": "Programming involves writing code to create applications and solve problems."
+    },
+    {
+        "id": 9,
+        "title": "History of Computers",
+        "content": "Computers have evolved significantly over the decades, impacting all aspects of life."
+    },
+    {
+        "id": 10,
+        "title": "Advantages and Disadvantages of Technology",
+        "content": "Technology has many advantages, such as increased efficiency, but also some disadvantages, such as reduced privacy."
+    }
+]
