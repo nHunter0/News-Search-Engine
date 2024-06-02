@@ -50,7 +50,7 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 1. **Navigate to the Frontend Directory**
 
    ```sh
-   cd frontend
+   cd search-engine
    ```
 
 2. **Install Node.js Dependencies**
