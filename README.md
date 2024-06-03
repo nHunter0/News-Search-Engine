@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Simple News Search Engine will pull top news articles using NewsAPI, the articles will then be web scraped using BeautifulSoup, and sentiment analysis will be performed on the returned data. If the user searches, a TF-IDF value will be calculated and returned, this will rank the news articles based on relevance to the search. Note, titles have higher weight.
+This Simple News Search Engine will pull top news articles using NewsAPI, the articles will then be web-scraped using BeautifulSoup, and sentiment analysis will be performed on the returned data. If the user searches, a TF-IDF value will be calculated and returned, this will rank the news articles based on relevance to the search. Note, titles have higher weight.
 
 ## Features
 
@@ -26,7 +26,7 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 
    ```sh
    git clone https://github.com/nHunter0/Search-Engine.git
-   cd Search-Engine
+   cd search-engine
    ```
 
 2. **Install Python Dependencies**
