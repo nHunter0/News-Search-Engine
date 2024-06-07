@@ -12,6 +12,10 @@ This Simple News Search Engine will pull top news articles using NewsAPI, the ar
 - **Sentiment Analysis**: Each article is analyzed for sentiment (positive, negative, or neutral).
 - **Article Descriptions**: A brief description of each article is displayed.
 
+## Screenshots
+
+![UserInterface](screenshot.jpg)
+
 ## Setup and Installation
 
 ### Prerequisites

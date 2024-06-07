@@ -24,3 +24,4 @@ yarn-error.log*
 
 #pycahce
 __pycache__
+NewApi KEY.txt
