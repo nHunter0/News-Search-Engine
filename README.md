@@ -111,4 +111,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - [NewsAPI](https://newsapi.org/) for providing the news data.
 - [Hugging Face](https://huggingface.co/) for the sentiment analysis models.
-- [ChatGPT](https://chat.openai.com/) for code assistance.
+
