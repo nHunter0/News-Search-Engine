@@ -3,6 +3,6 @@ flask-cors==4.0.2
 requests==2.32.2
 beautifulsoup4==4.9.3
 scikit-learn==1.5.0
-transformers==4.38.0
+transformers==4.48.0
 torch==2.2.0
 numpy==1.22.0
